@@ -1,6 +1,7 @@
 # ExHentai / E-Hentai 自动登录
 
-> ExHentai / E-Hentai 自動登錄
+
+> 最优解：使用镜像站e.eh09.org
 
 > ExHentai / E-Hentai Auto Login
 
